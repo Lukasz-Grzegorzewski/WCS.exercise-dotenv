@@ -1,0 +1,22 @@
+{
+  "name": "wcs.exercise-dotenv",
+  "version": "1.0.0",
+  "description": "WSC.exercise-dotenv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lukasz-Grzegorzewski/WCS.exercise-dotenv.git"
+  },
+  "author": "Lukasz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lukasz-Grzegorzewski/WCS.exercise-dotenv/issues"
+  },
+  "homepage": "https://github.com/Lukasz-Grzegorzewski/WCS.exercise-dotenv#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
